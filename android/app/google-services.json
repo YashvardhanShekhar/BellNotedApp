@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602877810737",
+    "project_id": "bellnoted",
+    "storage_bucket": "bellnoted.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602877810737:android:5520d256505fb1875b9d10",
+        "android_client_info": {
+          "package_name": "com.bellnotedapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXrEXf4k9ZOJjY79EFZRvbAIZjUXNuviM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
